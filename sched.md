@@ -18,33 +18,39 @@
   * Title: 업무내용
   * Status: Done
   * Type: Team
+  * User ID: jclee
 
 ---
 - Date: 2025-01-22
   * Title: 업무내용
   * Status: Done
   * Type: User
+  * User ID: jclee
 
 ---
 - Date: 2025-01-21
   * Title: 업무내용
   * Status: Done
   * Type: Team
+  * User ID: jclee
 
 ---
 - Date: 2025-01-20
   * Title: 업무내용
   * Status: Done
   * Type: User
+  * User ID: jclee
 
 ---
 - Date: 2025-01-12
   * Title: 업무내용
   * Status: Done
   * Type: Team
+  * User ID: jclee
 
 ---
 - Date: 2025-01-11
   * Title: 업무내용
   * Status: Done
   * Type: User
+  * User ID: jclee
