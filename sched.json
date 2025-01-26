@@ -1,9 +1,16 @@
 [
   {
     "date": "2025-01-26",
-    "title": "Flutter 프로젝트 발표",
-    "status": "확정",
+    "title": "Team Meeting",
+    "status": "Pending",
     "type": "Team",
-    "userId": "hcmoon"
+    "userId": "user123"
+  },
+  {
+    "date": "2025-01-27",
+    "title": "Project Update",
+    "status": "Completed",
+    "type": "User",
+    "userId": "user456"
   }
 ]
