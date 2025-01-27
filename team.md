@@ -1,2 +1,3 @@
 - Team ID: digital, User ID: hcmoon 
 - Team ID: digital, User ID: jclee 
+- Team ID: digital, User ID: admin
