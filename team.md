@@ -1,4 +1,4 @@
-- Team ID: digital, User ID: hcmoon 
-- Team ID: digital, User ID: jclee 
-- Team ID: digital, User ID: admin
+- Team ID: 디지털인재개발팀, User ID: 문형철 
+- Team ID: 디지털인재개발팀, User ID: 이중철 
+- Team ID: 디지털인재개발팀, User ID: admin
 - Team ID: 표준인재개발팀, User ID: 김피터
